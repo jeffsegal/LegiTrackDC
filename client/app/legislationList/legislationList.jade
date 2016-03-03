@@ -1,0 +1,54 @@
+.container
+  .jumbotron
+    .h3 Washington, D.C. City Council Legislation Search
+    form.form-horizontal(role="form")
+      .form-group
+        label.col-sm-2.control-label(for="query") Search
+        .col-sm-10
+          input#query.form-control(ng-model="query.text" type="text" placeholder="Enter a Keyword or Bill Number")
+      .form-group
+        label.col-sm-2.control-label(for="query")
+        .col-sm-10
+          #accordion.panel-group
+            .panel.panel-default
+              .panel-heading
+                .h4.panel-title
+                  a(data-toggle='collapse', data-parent='#accordion', href='#advanced-search') Advanced Search
+              #advanced-search.panel-collapse.collapse.in
+                .panel-body
+                  .form-group
+                    label.col-sm-2.control-label(for="query") Search
+                    .col-sm-10
+                      input#asd.form-control(ng-model="query.text" type="text" placeholder="Enter a Keyword or Bill Number")
+
+      .form-group
+        .col-sm-offset-2.col-sm-10
+          button.btn.btn-primary(ng-click="searchLegislation(query, true)" type="submit" value="Find Grants" ng-disabled="searching") Search
+
+      .form-group
+        label.col-sm-2.control-label(for="response")
+        .col-sm-10
+          #response(ng-repeat="legislation in results")
+            .panel.panel-default
+              .panel-heading
+                span.h4 {{legislation.LegislationNumber}}: {{legislation.ShortTitle}}
+                a(href='{{legislation.DocumentUrl}}')
+                  span.glyphicon.glyphicon-file(title="Download PDF" aria-hidden="true" data-toggle="tooltip")
+                span(ng-class="getStatusClass(legislation)" title="{{legislation.LegislationStatus}}" aria-hidden="true" data-toggle="tooltip")
+              .panel-body
+                .row
+                  .col-md-6
+                    b Type
+                    span : {{legislation.Subcategory}}
+                  .col-md-6
+                    b Status
+                    span : {{legislation.LegislationStatus}}
+                .row
+                  .col-md-6
+                    b Introduced
+                    span : {{legislation.IntroductionDate}}
+                  .col-md-6
+                    b Referral
+                    span : {{legislation.CommitteeReferral}}
+
+          button.btn.btn-primary(ng-class="nextPageDisabledClass()" ng-click="loadMore()" ng-disabled="searching") Load More

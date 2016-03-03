@@ -1,0 +1,5326 @@
+{
+  "Members": {
+    "9": [
+      {
+        "Name": "Harold Brazil",
+        "FirstName": "Harold",
+        "LastName": "Brazil",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 66
+      },
+      {
+        "Name": "H.R. Crawford",
+        "FirstName": "H.",
+        "LastName": "Crawford",
+        "MiddleName": "R.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 67
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 68
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-04-30",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 69
+      },
+      {
+        "Name": "Charlene Drew Jarvis",
+        "FirstName": "Charlene",
+        "LastName": "Jarvis",
+        "MiddleName": "Drew",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 70
+      },
+      {
+        "Name": "William Lightfoot",
+        "FirstName": "William",
+        "LastName": "Lightfoot",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 71
+      },
+      {
+        "Name": "Hilda H.M.Mason",
+        "FirstName": "Hilda",
+        "LastName": "Mason",
+        "MiddleName": "H.M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 72
+      },
+      {
+        "Name": "James Nathanson",
+        "FirstName": "James",
+        "LastName": "Nathanson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 73
+      },
+      {
+        "Name": "John Ray",
+        "FirstName": "John",
+        "LastName": "Ray",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 74
+      },
+      {
+        "Name": "Wilhemina Rolark",
+        "FirstName": "Wilhemina",
+        "LastName": "Rolark",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 75
+      },
+      {
+        "Name": "Frank Smith",
+        "FirstName": "Frank",
+        "LastName": "Smith",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 76
+      },
+      {
+        "Name": "Harry Thomas, Sr.",
+        "FirstName": "Harry",
+        "LastName": "Thomas",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 77
+      },
+      {
+        "Name": "John A. Wilson",
+        "FirstName": "John",
+        "LastName": "Wilson",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 78
+      }
+    ],
+    "8": [
+      {
+        "Name": "David A. Clarke",
+        "FirstName": "David",
+        "LastName": "Clarke",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 53
+      },
+      {
+        "Name": "H.R. Crawford",
+        "FirstName": "H.",
+        "LastName": "Crawford",
+        "MiddleName": "R.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 54
+      },
+      {
+        "Name": "Charlene Drew Jarvis",
+        "FirstName": "Charlene",
+        "LastName": "Jarvis",
+        "MiddleName": "Drew",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 55
+      },
+      {
+        "Name": "Betty Anne Kane",
+        "FirstName": "Betty",
+        "LastName": "Kane",
+        "MiddleName": "Anne",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 56
+      },
+      {
+        "Name": "William Lightfoot",
+        "FirstName": "William",
+        "LastName": "Lightfoot",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 57
+      },
+      {
+        "Name": "Hilda H.M.Mason",
+        "FirstName": "Hilda",
+        "LastName": "Mason",
+        "MiddleName": "H.M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 58
+      },
+      {
+        "Name": "James Nathanson",
+        "FirstName": "James",
+        "LastName": "Nathanson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 59
+      },
+      {
+        "Name": "John Ray",
+        "FirstName": "John",
+        "LastName": "Ray",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 60
+      },
+      {
+        "Name": "Wilhemina Rolark",
+        "FirstName": "Wilhemina",
+        "LastName": "Rolark",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 61
+      },
+      {
+        "Name": "Frank Smith",
+        "FirstName": "Frank",
+        "LastName": "Smith",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 62
+      },
+      {
+        "Name": "Harry Thomas, Sr.",
+        "FirstName": "Harry",
+        "LastName": "Thomas",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 63
+      },
+      {
+        "Name": "John A. Wilson",
+        "FirstName": "John",
+        "LastName": "Wilson",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 64
+      },
+      {
+        "Name": "Nadine Winter",
+        "FirstName": "Nadine",
+        "LastName": "Winter",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 65
+      }
+    ],
+    "21": [
+      {
+        "Name": "Yvette Alexander",
+        "FirstName": "Yvette",
+        "LastName": "Alexander",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 230
+      },
+      {
+        "Name": "Charles Allen",
+        "FirstName": "Charles",
+        "LastName": "Allen",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-02",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 239
+      },
+      {
+        "Name": "Anita Bonds",
+        "FirstName": "Anita",
+        "LastName": "Bonds",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 231
+      },
+      {
+        "Name": "Mary Cheh",
+        "FirstName": "Mary",
+        "LastName": "Cheh",
+        "MiddleName": "M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 232
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 233
+      },
+      {
+        "Name": "David Grosso",
+        "FirstName": "David",
+        "LastName": "Grosso",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 234
+      },
+      {
+        "Name": "LaRuby May",
+        "FirstName": "LaRuby",
+        "LastName": "May",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-05-14",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 245
+      },
+      {
+        "Name": "Kenyan McDuffie",
+        "FirstName": "Kenyan",
+        "LastName": "McDuffie",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 235
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 237
+      },
+      {
+        "Name": "Brianne Nadeau",
+        "FirstName": "Brianne",
+        "LastName": "Nadeau",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-02",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 240
+      },
+      {
+        "Name": "Vincent Orange",
+        "FirstName": "Vincent",
+        "LastName": "Orange",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 236
+      },
+      {
+        "Name": "Elissa Silverman",
+        "FirstName": "Elissa",
+        "LastName": "Silverman",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-02",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 238
+      },
+      {
+        "Name": "Brandon Todd",
+        "FirstName": "Brandon",
+        "LastName": "Todd",
+        "MiddleName": "T.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-05-14",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 244
+      }
+    ],
+    "20": [
+      {
+        "Name": "Yvette Alexander",
+        "FirstName": "Yvette",
+        "LastName": "Alexander",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 216
+      },
+      {
+        "Name": "Marion Barry",
+        "FirstName": "Marion",
+        "LastName": "Barry",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": "2014-11-23",
+        "DisplayOrder": 2,
+        "Id": 217
+      },
+      {
+        "Name": "Anita Bonds",
+        "FirstName": "Anita",
+        "LastName": "Bonds",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 218
+      },
+      {
+        "Name": "Muriel Bowser",
+        "FirstName": "Muriel",
+        "LastName": "Bowser",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 219
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 220
+      },
+      {
+        "Name": "Mary Cheh",
+        "FirstName": "Mary",
+        "LastName": "Cheh",
+        "MiddleName": "M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 221
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 222
+      },
+      {
+        "Name": "Jim Graham",
+        "FirstName": "Jim",
+        "LastName": "Graham",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 223
+      },
+      {
+        "Name": "David Grosso",
+        "FirstName": "David",
+        "LastName": "Grosso",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 224
+      },
+      {
+        "Name": "Kenyan McDuffie",
+        "FirstName": "Kenyan",
+        "LastName": "McDuffie",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 225
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 227
+      },
+      {
+        "Name": "Vincent Orange",
+        "FirstName": "Vincent",
+        "LastName": "Orange",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 226
+      },
+      {
+        "Name": "Voters",
+        "FirstName": null,
+        "LastName": "Voters",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2014-11-04",
+        "EndDate": "2014-11-05",
+        "DisplayOrder": 14,
+        "Id": 241
+      },
+      {
+        "Name": "Tommy Wells",
+        "FirstName": "Tommy",
+        "LastName": "Wells",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 228
+      }
+    ],
+    "19": [
+      {
+        "Name": "Yvette Alexander",
+        "FirstName": "Yvette",
+        "LastName": "Alexander",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 202
+      },
+      {
+        "Name": "Marion Barry",
+        "FirstName": "Marion",
+        "LastName": "Barry",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 203
+      },
+      {
+        "Name": "Sekou Biddle",
+        "FirstName": "Sekou",
+        "LastName": "Biddle",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-07",
+        "EndDate": "2011-05-24",
+        "DisplayOrder": 3,
+        "Id": 188
+      },
+      {
+        "Name": "Anita Bonds",
+        "FirstName": "Anita",
+        "LastName": "Bonds",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2012-12-11",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 204
+      },
+      {
+        "Name": "Muriel Bowser",
+        "FirstName": "Muriel",
+        "LastName": "Bowser",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 205
+      },
+      {
+        "Name": "Kwame Brown",
+        "FirstName": "Kwame",
+        "LastName": "Brown",
+        "MiddleName": "R.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": "2012-06-06",
+        "DisplayOrder": 5,
+        "Id": 190
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 206
+      },
+      {
+        "Name": "Mary Cheh",
+        "FirstName": "Mary",
+        "LastName": "Cheh",
+        "MiddleName": "M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 207
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 208
+      },
+      {
+        "Name": "Jim Graham",
+        "FirstName": "Jim",
+        "LastName": "Graham",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 209
+      },
+      {
+        "Name": "Michael Brown",
+        "FirstName": "Michael",
+        "LastName": "Mbrown",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 210
+      },
+      {
+        "Name": "Kenyan McDuffie",
+        "FirstName": "Kenyan",
+        "LastName": "McDuffie",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2012-05-30",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 211
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Chairman Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 19,
+        "StartDate": "2012-06-13",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 214
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": "2012-06-12",
+        "DisplayOrder": 11,
+        "Id": 212
+      },
+      {
+        "Name": "Vincent Orange",
+        "FirstName": "Vincent",
+        "LastName": "Orange",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-05-11",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 213
+      },
+      {
+        "Name": "Harry Thomas",
+        "FirstName": "Harry",
+        "LastName": "Thomas",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": "2012-01-05",
+        "DisplayOrder": 15,
+        "Id": 229
+      },
+      {
+        "Name": "Tommy Wells",
+        "FirstName": "Tommy",
+        "LastName": "Wells",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "DisplayOrder": 14,
+        "Id": 215
+      }
+    ],
+    "18": [
+      {
+        "Name": "Yvette Alexander",
+        "FirstName": "Yvette",
+        "LastName": "Alexander",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 186
+      },
+      {
+        "Name": "Marion Barry",
+        "FirstName": "Marion",
+        "LastName": "Barry",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 187
+      },
+      {
+        "Name": "Muriel Bowser",
+        "FirstName": "Muriel",
+        "LastName": "Bowser",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 189
+      },
+      {
+        "Name": "Kwame R. Brown",
+        "FirstName": "Kwame",
+        "LastName": "Brown",
+        "MiddleName": "R.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 191
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 192
+      },
+      {
+        "Name": "Mary M. Cheh",
+        "FirstName": "Mary",
+        "LastName": "Cheh",
+        "MiddleName": "M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 193
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 194
+      },
+      {
+        "Name": "Jim Graham",
+        "FirstName": "Jim",
+        "LastName": "Graham",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 195
+      },
+      {
+        "Name": "Vincent C. Gray",
+        "FirstName": "Vincent",
+        "LastName": "Gray",
+        "MiddleName": "C.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 196
+      },
+      {
+        "Name": "Michael A. Brown",
+        "FirstName": "Michael",
+        "LastName": "Mbrown",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 197
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 198
+      },
+      {
+        "Name": "Harry Thomas, Jr.",
+        "FirstName": "Harry",
+        "LastName": "Thomas",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 14,
+        "Id": 199
+      },
+      {
+        "Name": "Tommy Wells",
+        "FirstName": "Tommy",
+        "LastName": "Wells",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "DisplayOrder": 16,
+        "Id": 201
+      }
+    ],
+    "17": [
+      {
+        "Name": "Yvette Alexander",
+        "FirstName": "Yvette",
+        "LastName": "Alexander",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-05-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 173
+      },
+      {
+        "Name": "Marion Barry",
+        "FirstName": "Marion",
+        "LastName": "Barry",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 174
+      },
+      {
+        "Name": "Muriel Bowser",
+        "FirstName": "Muriel",
+        "LastName": "Bowser",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-05-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 175
+      },
+      {
+        "Name": "Kwame R. Brown",
+        "FirstName": "Kwame",
+        "LastName": "Brown",
+        "MiddleName": "R.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 176
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 177
+      },
+      {
+        "Name": "Mary M. Cheh",
+        "FirstName": "Mary",
+        "LastName": "Cheh",
+        "MiddleName": "M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 178
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 179
+      },
+      {
+        "Name": "Jim Graham",
+        "FirstName": "Jim",
+        "LastName": "Graham",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 180
+      },
+      {
+        "Name": "Vincent C. Gray",
+        "FirstName": "Vincent",
+        "LastName": "Gray",
+        "MiddleName": "C.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 181
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 182
+      },
+      {
+        "Name": "Carol Schwartz",
+        "FirstName": "Carol",
+        "LastName": "Schwartz",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 183
+      },
+      {
+        "Name": "Harry Thomas, Jr.",
+        "FirstName": "Harry",
+        "LastName": "Thomas",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 184
+      },
+      {
+        "Name": "Tommy Wells",
+        "FirstName": "Tommy",
+        "LastName": "Wells",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 185
+      }
+    ],
+    "16": [
+      {
+        "Name": "Sharon Ambrose",
+        "FirstName": "Sharon",
+        "LastName": "Ambrose",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 160
+      },
+      {
+        "Name": "Marion Barry",
+        "FirstName": "Marion",
+        "LastName": "Barry",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 161
+      },
+      {
+        "Name": "Kwame Brown",
+        "FirstName": "Kwame",
+        "LastName": "Brown",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 162
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 163
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 164
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 165
+      },
+      {
+        "Name": "Adrian Fenty",
+        "FirstName": "Adrian",
+        "LastName": "Fenty",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": "2007-01-02",
+        "DisplayOrder": 7,
+        "Id": 166
+      },
+      {
+        "Name": "Jim Graham",
+        "FirstName": "Jim",
+        "LastName": "Graham",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 167
+      },
+      {
+        "Name": "Vincent Gray",
+        "FirstName": "Vincent",
+        "LastName": "Gray",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 168
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 169
+      },
+      {
+        "Name": "Vincent B. Orange",
+        "FirstName": "Vincent",
+        "LastName": "Orange",
+        "MiddleName": "B.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 170
+      },
+      {
+        "Name": "Kathleen Patterson",
+        "FirstName": "Kathleen",
+        "LastName": "Patterson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 171
+      },
+      {
+        "Name": "Carol Schwartz",
+        "FirstName": "Carol",
+        "LastName": "Schwartz",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 172
+      }
+    ],
+    "15": [
+      {
+        "Name": "Sandy Allen",
+        "FirstName": "Sandy",
+        "LastName": "Allen",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 147
+      },
+      {
+        "Name": "Sharon Ambrose",
+        "FirstName": "Sharon",
+        "LastName": "Ambrose",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 148
+      },
+      {
+        "Name": "Harold Brazil",
+        "FirstName": "Harold",
+        "LastName": "Brazil",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 149
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 150
+      },
+      {
+        "Name": "Kevin P. Chavous",
+        "FirstName": "Kevin",
+        "LastName": "Chavous",
+        "MiddleName": "P.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-02",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 151
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-02",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 152
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 153
+      },
+      {
+        "Name": "Adrian Fenty",
+        "FirstName": "Adrian",
+        "LastName": "Fenty",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 154
+      },
+      {
+        "Name": "Jim Graham",
+        "FirstName": "Jim",
+        "LastName": "Graham",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 155
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 156
+      },
+      {
+        "Name": "Vincent B. Orange",
+        "FirstName": "Vincent",
+        "LastName": "Orange",
+        "MiddleName": "B.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-02",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 157
+      },
+      {
+        "Name": "Kathleen Patterson",
+        "FirstName": "Kathleen",
+        "LastName": "Patterson",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 158
+      },
+      {
+        "Name": "Carol Schwartz",
+        "FirstName": "Carol",
+        "LastName": "Schwartz",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 159
+      }
+    ],
+    "14": [
+      {
+        "Name": "Sandy Allen",
+        "FirstName": "Sandy",
+        "LastName": "Allen",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 134
+      },
+      {
+        "Name": "Sharon Ambrose",
+        "FirstName": "Sharon",
+        "LastName": "Ambrose",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 135
+      },
+      {
+        "Name": "Harold Brazil",
+        "FirstName": "Harold",
+        "LastName": "Brazil",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 136
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 137
+      },
+      {
+        "Name": "Kevin P. Chavous",
+        "FirstName": "Kevin",
+        "LastName": "Chavous",
+        "MiddleName": "P.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 138
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 139
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 140
+      },
+      {
+        "Name": "Adrian Fenty",
+        "FirstName": "Adrian",
+        "LastName": "Fenty",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 141
+      },
+      {
+        "Name": "Jim Graham",
+        "FirstName": "Jim",
+        "LastName": "Graham",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 142
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 143
+      },
+      {
+        "Name": "Vincent B. Orange",
+        "FirstName": "Vincent",
+        "LastName": "Orange",
+        "MiddleName": "B.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 144
+      },
+      {
+        "Name": "Kathleen Patterson",
+        "FirstName": "Kathleen",
+        "LastName": "Patterson",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 145
+      },
+      {
+        "Name": "Carol Schwartz",
+        "FirstName": "Carol",
+        "LastName": "Schwartz",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 146
+      }
+    ],
+    "13": [
+      {
+        "Name": "Sandy Allen",
+        "FirstName": "Sandy",
+        "LastName": "Allen",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 121
+      },
+      {
+        "Name": "Sharon Ambrose",
+        "FirstName": "Sharon",
+        "LastName": "Ambrose",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 122
+      },
+      {
+        "Name": "Harold Brazil",
+        "FirstName": "Harold",
+        "LastName": "Brazil",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 123
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 124
+      },
+      {
+        "Name": "Kevin P. Chavous",
+        "FirstName": "Kevin",
+        "LastName": "Chavous",
+        "MiddleName": "P.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 125
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 126
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 127
+      },
+      {
+        "Name": "Jim Graham",
+        "FirstName": "Jim",
+        "LastName": "Graham",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 128
+      },
+      {
+        "Name": "Charlene Drew Jarvis",
+        "FirstName": "Charlene",
+        "LastName": "Jarvis",
+        "MiddleName": "Drew",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 129
+      },
+      {
+        "Name": "Phil Mendelson",
+        "FirstName": "Phil",
+        "LastName": "Mendelson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 130
+      },
+      {
+        "Name": "Vincent B. Orange",
+        "FirstName": "Vincent",
+        "LastName": "Orange",
+        "MiddleName": "B.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 131
+      },
+      {
+        "Name": "Kathleen Patterson",
+        "FirstName": "Kathleen",
+        "LastName": "Patterson",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 132
+      },
+      {
+        "Name": "Carol Schwartz",
+        "FirstName": "Carol",
+        "LastName": "Schwartz",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 133
+      }
+    ],
+    "12": [
+      {
+        "Name": "Sandra Allen",
+        "FirstName": "Sandra",
+        "LastName": "Allen",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 106
+      },
+      {
+        "Name": "Sharon Ambrose",
+        "FirstName": "Sharon",
+        "LastName": "Ambrose",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-05-09",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 107
+      },
+      {
+        "Name": "Harold Brazil",
+        "FirstName": "Harold",
+        "LastName": "Brazil",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 108
+      },
+      {
+        "Name": "David Catania",
+        "FirstName": "David",
+        "LastName": "Catania",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1998-01-02",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 109
+      },
+      {
+        "Name": "Kevin Chavous",
+        "FirstName": "Kevin",
+        "LastName": "Chavous",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 110
+      },
+      {
+        "Name": "David A. Clarke",
+        "FirstName": "David",
+        "LastName": "Clarke",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": "1997-03-27",
+        "DisplayOrder": 6,
+        "Id": 111
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": "1997-07-21",
+        "DisplayOrder": 7,
+        "Id": 112
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-07-22",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 113
+      },
+      {
+        "Name": "Arrington Dixon",
+        "FirstName": "Arrington",
+        "LastName": "Dixon",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-08-16",
+        "EndDate": "1997-12-31",
+        "DisplayOrder": 9,
+        "Id": 114
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 115
+      },
+      {
+        "Name": "Charlene Drew Jarvis",
+        "FirstName": "Charlene Drew",
+        "LastName": "Jarvis",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 0,
+        "Id": 243
+      },
+      {
+        "Name": "Hilda H.M. Mason",
+        "FirstName": "Hilda",
+        "LastName": "Mason",
+        "MiddleName": "H.M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 116
+      },
+      {
+        "Name": "Kathleen Patterson",
+        "FirstName": "Kathleen",
+        "LastName": "Patterson",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 117
+      },
+      {
+        "Name": "Carol Schwartz",
+        "FirstName": "Carol",
+        "LastName": "Schwartz",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 118
+      },
+      {
+        "Name": "Frank Smith",
+        "FirstName": "Frank",
+        "LastName": "Smith",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 14,
+        "Id": 119
+      },
+      {
+        "Name": "Harry Thomas, Sr.",
+        "FirstName": "Harry",
+        "LastName": "Thomas",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "DisplayOrder": 15,
+        "Id": 120
+      }
+    ],
+    "11": [
+      {
+        "Name": "Harold Brazil",
+        "FirstName": "Harold",
+        "LastName": "Brazil",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 93
+      },
+      {
+        "Name": "Kevin P. Chavous",
+        "FirstName": "Kevin",
+        "LastName": "Chavous",
+        "MiddleName": "P.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 94
+      },
+      {
+        "Name": "David A. Clarke",
+        "FirstName": "David",
+        "LastName": "Clarke",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 95
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 96
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 97
+      },
+      {
+        "Name": "Charlene Drew Jarvis",
+        "FirstName": "Charlene",
+        "LastName": "Jarvis",
+        "MiddleName": "Drew",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 98
+      },
+      {
+        "Name": "William Lightfoot",
+        "FirstName": "William",
+        "LastName": "Lightfoot",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 99
+      },
+      {
+        "Name": "Hilda H.M.Mason",
+        "FirstName": "Hilda",
+        "LastName": "Mason",
+        "MiddleName": "H.M.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 100
+      },
+      {
+        "Name": "Kathleen Patterson",
+        "FirstName": "Kathleen",
+        "LastName": "Patterson",
+        "MiddleName": null,
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 101
+      },
+      {
+        "Name": "John Ray",
+        "FirstName": "John",
+        "LastName": "Ray",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 102
+      },
+      {
+        "Name": "Frank Smith, Jr.",
+        "FirstName": "Frank",
+        "LastName": "Smith, Jr.",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 103
+      },
+      {
+        "Name": "Harry Thomas, Sr.",
+        "FirstName": "Harry",
+        "LastName": "Thomas, Sr.",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 104
+      },
+      {
+        "Name": "Eydie D. Whittington",
+        "FirstName": "Eydie",
+        "LastName": "Whittington",
+        "MiddleName": "D.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-05-30",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 105
+      }
+    ],
+    "10": [
+      {
+        "Name": "Marion S. Barry",
+        "FirstName": "Marion",
+        "LastName": "Barry",
+        "MiddleName": "S.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 1,
+        "Id": 79
+      },
+      {
+        "Name": "Harold Brazil",
+        "FirstName": "Harold",
+        "LastName": "Brazil",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 2,
+        "Id": 80
+      },
+      {
+        "Name": "Kevin Chavous",
+        "FirstName": "Kevin",
+        "LastName": "Chavous",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 3,
+        "Id": 81
+      },
+      {
+        "Name": "David A. Clarke",
+        "FirstName": "David",
+        "LastName": "Clarke",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-09-14",
+        "EndDate": null,
+        "DisplayOrder": 4,
+        "Id": 82
+      },
+      {
+        "Name": "Linda W. Cropp",
+        "FirstName": "Linda",
+        "LastName": "Cropp",
+        "MiddleName": "W.",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 5,
+        "Id": 83
+      },
+      {
+        "Name": "Jack Evans",
+        "FirstName": "Jack",
+        "LastName": "Evans",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 6,
+        "Id": 84
+      },
+      {
+        "Name": "Charlene Drew Jarvis",
+        "FirstName": "Charlene",
+        "LastName": "Jarvis",
+        "MiddleName": "Drew",
+        "Gender": "F",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 7,
+        "Id": 85
+      },
+      {
+        "Name": "William Lightfoot",
+        "FirstName": "William",
+        "LastName": "Lightfoot",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 8,
+        "Id": 86
+      },
+      {
+        "Name": "Hilda H.M.Mason",
+        "FirstName": "Hilda",
+        "LastName": "Mason",
+        "MiddleName": "H.M.",
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 9,
+        "Id": 87
+      },
+      {
+        "Name": "James Nathanson",
+        "FirstName": "James",
+        "LastName": "Nathanson",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 10,
+        "Id": 88
+      },
+      {
+        "Name": "John Ray",
+        "FirstName": "John",
+        "LastName": "Ray",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 11,
+        "Id": 89
+      },
+      {
+        "Name": "Frank Smith",
+        "FirstName": "Frank",
+        "LastName": "Smith",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 12,
+        "Id": 90
+      },
+      {
+        "Name": "Harry Thomas, Sr.",
+        "FirstName": "Harry",
+        "LastName": "Thomas",
+        "MiddleName": null,
+        "Gender": "M",
+        "MemberTitle": "Councilmember",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "DisplayOrder": 13,
+        "Id": 91
+      },
+      {
+        "Name": "John A. Wilson",
+        "FirstName": "John",
+        "LastName": "Wilson",
+        "MiddleName": "A.",
+        "Gender": "M",
+        "MemberTitle": "Chairman",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": "1993-09-13",
+        "DisplayOrder": 14,
+        "Id": 92
+      }
+    ]
+  },
+  "Committees": {
+    "21": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RC",
+        "DisplayOrder": 1,
+        "Id": 210
+      },
+      {
+        "Name": "Business, Consumer, and Regulatory Affairs",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "BCRA",
+        "DisplayOrder": 2,
+        "Id": 203
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 3,
+        "Id": 204
+      },
+      {
+        "Name": "Education",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "E",
+        "DisplayOrder": 4,
+        "Id": 205
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 5,
+        "Id": 206
+      },
+      {
+        "Name": "Health and Human Services",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HHS",
+        "DisplayOrder": 6,
+        "Id": 207
+      },
+      {
+        "Name": "Housing and Community Development",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HCD",
+        "DisplayOrder": 7,
+        "Id": 208
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 8,
+        "Id": 209
+      },
+      {
+        "Name": "Transportation and the Environment",
+        "CouncilPeriod": 21,
+        "StartDate": "2015-01-01",
+        "EndDate": null,
+        "CommitteeCode": "TE",
+        "DisplayOrder": 9,
+        "Id": 211
+      }
+    ],
+    "20": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "RC",
+        "DisplayOrder": 1,
+        "Id": 200
+      },
+      {
+        "Name": "Business, Consumer, and Regulatory Affairs",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "BCRA",
+        "DisplayOrder": 2,
+        "Id": 191
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 3,
+        "Id": 192
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "EC",
+        "DisplayOrder": 4,
+        "Id": 193
+      },
+      {
+        "Name": "Education",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "E",
+        "DisplayOrder": 5,
+        "Id": 194
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 6,
+        "Id": 195
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 7,
+        "Id": 196
+      },
+      {
+        "Name": "Health",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "H",
+        "DisplayOrder": 8,
+        "Id": 197
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 9,
+        "Id": 198
+      },
+      {
+        "Name": "Judiciary and Public Safety",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "JPS",
+        "DisplayOrder": 10,
+        "Id": 199
+      },
+      {
+        "Name": "Transportation and the Environment",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "TE",
+        "DisplayOrder": 11,
+        "Id": 201
+      },
+      {
+        "Name": "Workforce and Community Affairs",
+        "CouncilPeriod": 20,
+        "StartDate": "2013-01-02",
+        "EndDate": null,
+        "CommitteeCode": "WCA",
+        "DisplayOrder": 12,
+        "Id": 202
+      }
+    ],
+    "19": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RETAINED",
+        "DisplayOrder": 1,
+        "Id": 186
+      },
+      {
+        "Name": "Aging and Community Affairs",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ACA",
+        "DisplayOrder": 2,
+        "Id": 171
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 3,
+        "Id": 172
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": "2012-06-06",
+        "CommitteeCode": "E",
+        "DisplayOrder": 4,
+        "Id": 173
+      },
+      {
+        "Name": "Economic Development and Housing",
+        "CouncilPeriod": 19,
+        "StartDate": "2012-06-06",
+        "EndDate": null,
+        "CommitteeCode": "EH",
+        "DisplayOrder": 5,
+        "Id": 174
+      },
+      {
+        "Name": "Public Works and Transportation",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": "2011-07-12",
+        "CommitteeCode": "PWT",
+        "DisplayOrder": 6,
+        "Id": 175
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 7,
+        "Id": 176
+      },
+      {
+        "Name": "Government Operations and the Environment",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GOE",
+        "DisplayOrder": 8,
+        "Id": 177
+      },
+      {
+        "Name": "Health",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "H",
+        "DisplayOrder": 9,
+        "Id": 178
+      },
+      {
+        "Name": "Housing and Workforce Development",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HWD",
+        "DisplayOrder": 10,
+        "Id": 179
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 11,
+        "Id": 180
+      },
+      {
+        "Name": "Investigation of Parks and Recreation",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "SCPR",
+        "DisplayOrder": 12,
+        "Id": 181
+      },
+      {
+        "Name": "Jobs and Workforce Development",
+        "CouncilPeriod": 19,
+        "StartDate": "2012-06-06",
+        "EndDate": null,
+        "CommitteeCode": "JWD",
+        "DisplayOrder": 13,
+        "Id": 182
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 14,
+        "Id": 183
+      },
+      {
+        "Name": "Libraries, Parks, Recreation  & Planning",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LPR",
+        "DisplayOrder": 15,
+        "Id": 184
+      },
+      {
+        "Name": "Public Services and Consumer Affairs",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PSCA",
+        "DisplayOrder": 16,
+        "Id": 185
+      },
+      {
+        "Name": "Small and Local Business Development",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-07-12",
+        "EndDate": null,
+        "CommitteeCode": "SLBD",
+        "DisplayOrder": 17,
+        "Id": 187
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-07-12",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 18,
+        "Id": 188
+      },
+      {
+        "Name": "Environment, Public Works & Transportation",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-07-12",
+        "EndDate": null,
+        "CommitteeCode": "EPWT",
+        "DisplayOrder": 19,
+        "Id": 189
+      },
+      {
+        "Name": "Libraries, Parks, Recreation & Planning",
+        "CouncilPeriod": 19,
+        "StartDate": "2011-07-12",
+        "EndDate": null,
+        "CommitteeCode": "LPRP",
+        "DisplayOrder": 20,
+        "Id": 190
+      }
+    ],
+    "18": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RETAINED",
+        "DisplayOrder": 1,
+        "Id": 170
+      },
+      {
+        "Name": "Aging and Community Affairs",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ACA",
+        "DisplayOrder": 2,
+        "Id": 158
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 3,
+        "Id": 159
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "E",
+        "DisplayOrder": 4,
+        "Id": 160
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 5,
+        "Id": 161
+      },
+      {
+        "Name": "Government Operations and the Environment",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GOE",
+        "DisplayOrder": 6,
+        "Id": 162
+      },
+      {
+        "Name": "Health",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "H",
+        "DisplayOrder": 7,
+        "Id": 163
+      },
+      {
+        "Name": "Housing and Workforce Development",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HWD",
+        "DisplayOrder": 8,
+        "Id": 164
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 9,
+        "Id": 165
+      },
+      {
+        "Name": "Libraries, Parks and Recreation",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LPR",
+        "DisplayOrder": 10,
+        "Id": 166
+      },
+      {
+        "Name": "Public Safety and the Judiciary",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PSJ",
+        "DisplayOrder": 11,
+        "Id": 167
+      },
+      {
+        "Name": "Public Services and Consumer Affairs",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PSCA",
+        "DisplayOrder": 12,
+        "Id": 168
+      },
+      {
+        "Name": "Public Works and Transportation",
+        "CouncilPeriod": 18,
+        "StartDate": "2009-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWT",
+        "DisplayOrder": 13,
+        "Id": 169
+      }
+    ],
+    "17": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RETAINED",
+        "DisplayOrder": 1,
+        "Id": 156
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 2,
+        "Id": 146
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 3,
+        "Id": 147
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 4,
+        "Id": 148
+      },
+      {
+        "Name": "Health",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "H",
+        "DisplayOrder": 5,
+        "Id": 149
+      },
+      {
+        "Name": "Housing and Urban Affairs",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HUA",
+        "DisplayOrder": 6,
+        "Id": 150
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 7,
+        "Id": 151
+      },
+      {
+        "Name": "Libraries, Parks and Recreation",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LPR",
+        "DisplayOrder": 8,
+        "Id": 152
+      },
+      {
+        "Name": "Public Safety and the Judiciary",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PSJ",
+        "DisplayOrder": 9,
+        "Id": 153
+      },
+      {
+        "Name": "Public Services and Consumer Affairs",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PSCA",
+        "DisplayOrder": 10,
+        "Id": 154
+      },
+      {
+        "Name": "Public Works and the Environment",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWE",
+        "DisplayOrder": 11,
+        "Id": 155
+      },
+      {
+        "Name": "Workforce Development and Government Operations",
+        "CouncilPeriod": 17,
+        "StartDate": "2007-01-01",
+        "EndDate": null,
+        "CommitteeCode": "WDGO",
+        "DisplayOrder": 12,
+        "Id": 157
+      }
+    ],
+    "16": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RETAINED",
+        "DisplayOrder": 1,
+        "Id": 145
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 2,
+        "Id": 132
+      },
+      {
+        "Name": "Comprehensive Policy on Lsdbe",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LSDBE",
+        "DisplayOrder": 3,
+        "Id": 133
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 4,
+        "Id": 134
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 5,
+        "Id": 135
+      },
+      {
+        "Name": "Education, Libraries and Recreation",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ELR",
+        "DisplayOrder": 6,
+        "Id": 136
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 7,
+        "Id": 137
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 8,
+        "Id": 138
+      },
+      {
+        "Name": "Health",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "H",
+        "DisplayOrder": 9,
+        "Id": 139
+      },
+      {
+        "Name": "Housing",
+        "CouncilPeriod": 16,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "H",
+        "DisplayOrder": 10,
+        "Id": 140
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 11,
+        "Id": 141
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 12,
+        "Id": 142
+      },
+      {
+        "Name": "Prevention of Youth Violent Crime",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PYV",
+        "DisplayOrder": 13,
+        "Id": 143
+      },
+      {
+        "Name": "Public Works and the Environment",
+        "CouncilPeriod": 16,
+        "StartDate": "2005-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWE",
+        "DisplayOrder": 14,
+        "Id": 144
+      }
+    ],
+    "15": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RETAINED",
+        "DisplayOrder": 1,
+        "Id": 131
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 2,
+        "Id": 119
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 3,
+        "Id": 120
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 4,
+        "Id": 121
+      },
+      {
+        "Name": "Education, Libraries and Recreation",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ELR",
+        "DisplayOrder": 5,
+        "Id": 122
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 6,
+        "Id": 123
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 7,
+        "Id": 124
+      },
+      {
+        "Name": "Human Rights, Latino Affairs & Property Management",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HRLAPM",
+        "DisplayOrder": 8,
+        "Id": 125
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 9,
+        "Id": 126
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 10,
+        "Id": 127
+      },
+      {
+        "Name": "Public Interest",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PI",
+        "DisplayOrder": 11,
+        "Id": 128
+      },
+      {
+        "Name": "Public Services",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PS",
+        "DisplayOrder": 12,
+        "Id": 129
+      },
+      {
+        "Name": "Public Works and the Environment",
+        "CouncilPeriod": 15,
+        "StartDate": "2003-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWE",
+        "DisplayOrder": 13,
+        "Id": 130
+      }
+    ],
+    "14": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RETAINED",
+        "DisplayOrder": 1,
+        "Id": 118
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 2,
+        "Id": 106
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 3,
+        "Id": 107
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 4,
+        "Id": 108
+      },
+      {
+        "Name": "Education, Libraries and Recreation",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ELR",
+        "DisplayOrder": 5,
+        "Id": 109
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 6,
+        "Id": 110
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 7,
+        "Id": 111
+      },
+      {
+        "Name": "Human Rights, Latino Affairs & Property Management",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HRLAPM",
+        "DisplayOrder": 8,
+        "Id": 112
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 9,
+        "Id": 113
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 10,
+        "Id": 114
+      },
+      {
+        "Name": "Labor, Voting Rights and Redistricting",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LVRR",
+        "DisplayOrder": 11,
+        "Id": 115
+      },
+      {
+        "Name": "Public Services",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PS",
+        "DisplayOrder": 12,
+        "Id": 116
+      },
+      {
+        "Name": "Public Works and the Environment",
+        "CouncilPeriod": 14,
+        "StartDate": "2001-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWE",
+        "DisplayOrder": 13,
+        "Id": 117
+      }
+    ],
+    "13": [
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RETAINED",
+        "DisplayOrder": 1,
+        "Id": 105
+      },
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 2,
+        "Id": 94
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 3,
+        "Id": 95
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 4,
+        "Id": 96
+      },
+      {
+        "Name": "Education, Libraries and Recreation",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ELR",
+        "DisplayOrder": 5,
+        "Id": 97
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 6,
+        "Id": 98
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 7,
+        "Id": 99
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 8,
+        "Id": 100
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 9,
+        "Id": 101
+      },
+      {
+        "Name": "Local and Regional Affairs",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LRA",
+        "DisplayOrder": 10,
+        "Id": 102
+      },
+      {
+        "Name": "Lvrr",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LVRR",
+        "DisplayOrder": 11,
+        "Id": 103
+      },
+      {
+        "Name": "Public Works and the Environment",
+        "CouncilPeriod": 13,
+        "StartDate": "1999-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWE",
+        "DisplayOrder": 12,
+        "Id": 104
+      }
+    ],
+    "12": [
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 1,
+        "Id": 85
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 2,
+        "Id": 86
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 3,
+        "Id": 87
+      },
+      {
+        "Name": "Education, Libraries and Recreation",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ELR",
+        "DisplayOrder": 4,
+        "Id": 88
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 5,
+        "Id": 89
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 6,
+        "Id": 90
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 7,
+        "Id": 91
+      },
+      {
+        "Name": "Local, Regional and Federal Affairs",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LRFA",
+        "DisplayOrder": 8,
+        "Id": 92
+      },
+      {
+        "Name": "Public Works and the Environment",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWE",
+        "DisplayOrder": 9,
+        "Id": 93
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 10,
+        "Id": 214
+      },
+      {
+        "Name": "Retained by the Council",
+        "CouncilPeriod": 12,
+        "StartDate": "1997-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RETAINED",
+        "DisplayOrder": 11,
+        "Id": 215
+      }
+    ],
+    "11": [
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 1,
+        "Id": 75
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 2,
+        "Id": 76
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 3,
+        "Id": 77
+      },
+      {
+        "Name": "Education and Libraries",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "EL",
+        "DisplayOrder": 4,
+        "Id": 78
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 5,
+        "Id": 79
+      },
+      {
+        "Name": "Housing and Urban Affairs",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HUA",
+        "DisplayOrder": 6,
+        "Id": 80
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 7,
+        "Id": 81
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 8,
+        "Id": 82
+      },
+      {
+        "Name": "Public Services and Regional Affairs",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PSRA",
+        "DisplayOrder": 9,
+        "Id": 83
+      },
+      {
+        "Name": "Public Works and the Environment",
+        "CouncilPeriod": 11,
+        "StartDate": "1995-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWE",
+        "DisplayOrder": 10,
+        "Id": 84
+      }
+    ],
+    "10": [
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 1,
+        "Id": 63
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 2,
+        "Id": 64
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 3,
+        "Id": 65
+      },
+      {
+        "Name": "Education and Libraries",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "EL",
+        "DisplayOrder": 4,
+        "Id": 66
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 5,
+        "Id": 67
+      },
+      {
+        "Name": "Housing",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "H",
+        "DisplayOrder": 6,
+        "Id": 68
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 7,
+        "Id": 69
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 8,
+        "Id": 70
+      },
+      {
+        "Name": "Labor and Human Rights",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "LHR",
+        "DisplayOrder": 9,
+        "Id": 71
+      },
+      {
+        "Name": "Public Services and Youth Affairs",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PSYA",
+        "DisplayOrder": 10,
+        "Id": 72
+      },
+      {
+        "Name": "Public Works and the Environment",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PWE",
+        "DisplayOrder": 11,
+        "Id": 73
+      },
+      {
+        "Name": "Regional Authorities",
+        "CouncilPeriod": 10,
+        "StartDate": "1993-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RA",
+        "DisplayOrder": 12,
+        "Id": 74
+      }
+    ],
+    "9": [
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 1,
+        "Id": 50
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 2,
+        "Id": 51
+      },
+      {
+        "Name": "Economic Development",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "ED",
+        "DisplayOrder": 3,
+        "Id": 52
+      },
+      {
+        "Name": "Education and Libraries",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "EL",
+        "DisplayOrder": 4,
+        "Id": 53
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 5,
+        "Id": 54
+      },
+      {
+        "Name": "Housing",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "H",
+        "DisplayOrder": 6,
+        "Id": 55
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 7,
+        "Id": 56
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 8,
+        "Id": 57
+      },
+      {
+        "Name": "Labor",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "L",
+        "DisplayOrder": 9,
+        "Id": 58
+      },
+      {
+        "Name": "Public Services",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PS",
+        "DisplayOrder": 10,
+        "Id": 59
+      },
+      {
+        "Name": "Public Works",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PW",
+        "DisplayOrder": 11,
+        "Id": 60
+      },
+      {
+        "Name": "Regional Authorities",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "RA",
+        "DisplayOrder": 12,
+        "Id": 61
+      },
+      {
+        "Name": "Self Determination",
+        "CouncilPeriod": 9,
+        "StartDate": "1991-01-01",
+        "EndDate": null,
+        "CommitteeCode": "SD",
+        "DisplayOrder": 13,
+        "Id": 62
+      }
+    ],
+    "8": [
+      {
+        "Name": "Committee of the Whole",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "COW",
+        "DisplayOrder": 1,
+        "Id": 40
+      },
+      {
+        "Name": "Consumer and Regulatory Affairs",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "CRA",
+        "DisplayOrder": 2,
+        "Id": 41
+      },
+      {
+        "Name": "Education and Libraries",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "EL",
+        "DisplayOrder": 3,
+        "Id": 42
+      },
+      {
+        "Name": "Finance and Revenue",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "FR",
+        "DisplayOrder": 4,
+        "Id": 43
+      },
+      {
+        "Name": "Government Operations",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "GO",
+        "DisplayOrder": 5,
+        "Id": 44
+      },
+      {
+        "Name": "Housing and Economic Development",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HED",
+        "DisplayOrder": 6,
+        "Id": 45
+      },
+      {
+        "Name": "Human Services",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "HS",
+        "DisplayOrder": 7,
+        "Id": 46
+      },
+      {
+        "Name": "Judiciary",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "J",
+        "DisplayOrder": 8,
+        "Id": 47
+      },
+      {
+        "Name": "Public Services",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PS",
+        "DisplayOrder": 9,
+        "Id": 48
+      },
+      {
+        "Name": "Public Works",
+        "CouncilPeriod": 8,
+        "StartDate": "1989-01-01",
+        "EndDate": null,
+        "CommitteeCode": "PW",
+        "DisplayOrder": 10,
+        "Id": 49
+      }
+    ]
+  },
+  "CouncilPeriods": [
+    {
+      "Id": 21,
+      "Name": "Council Period 21",
+      "Prefix": "21",
+      "Period": null,
+      "StartDate": "2015-01-01",
+      "EndDate": "2016-12-31",
+      "DisplayOrder": 21
+    },
+    {
+      "Id": 20,
+      "Name": "Council Period 20",
+      "Prefix": "20",
+      "Period": null,
+      "StartDate": "2013-01-01",
+      "EndDate": "2014-12-31",
+      "DisplayOrder": 20
+    },
+    {
+      "Id": 19,
+      "Name": "Council Period 19",
+      "Prefix": "19",
+      "Period": null,
+      "StartDate": "2011-01-01",
+      "EndDate": "2012-12-31",
+      "DisplayOrder": 19
+    },
+    {
+      "Id": 18,
+      "Name": "Council Period 18",
+      "Prefix": "18",
+      "Period": null,
+      "StartDate": "2009-01-01",
+      "EndDate": "2010-12-31",
+      "DisplayOrder": 18
+    },
+    {
+      "Id": 17,
+      "Name": "Council Period 17",
+      "Prefix": "17",
+      "Period": null,
+      "StartDate": "2007-01-01",
+      "EndDate": "2008-12-31",
+      "DisplayOrder": 17
+    },
+    {
+      "Id": 16,
+      "Name": "Council Period 16",
+      "Prefix": "16",
+      "Period": null,
+      "StartDate": "2005-01-01",
+      "EndDate": "2006-12-31",
+      "DisplayOrder": 16
+    },
+    {
+      "Id": 15,
+      "Name": "Council Period 15",
+      "Prefix": "15",
+      "Period": null,
+      "StartDate": "2003-01-02",
+      "EndDate": "2004-12-31",
+      "DisplayOrder": 15
+    },
+    {
+      "Id": 14,
+      "Name": "Council Period 14",
+      "Prefix": "14",
+      "Period": null,
+      "StartDate": "2001-01-01",
+      "EndDate": "2002-12-31",
+      "DisplayOrder": 14
+    },
+    {
+      "Id": 13,
+      "Name": "Council Period 13",
+      "Prefix": "13",
+      "Period": null,
+      "StartDate": "1999-01-01",
+      "EndDate": "2000-12-31",
+      "DisplayOrder": 13
+    },
+    {
+      "Id": 12,
+      "Name": "Council Period 12",
+      "Prefix": "12",
+      "Period": null,
+      "StartDate": "1997-01-01",
+      "EndDate": "1998-12-31",
+      "DisplayOrder": 12
+    },
+    {
+      "Id": 11,
+      "Name": "Council Period 11",
+      "Prefix": "11",
+      "Period": null,
+      "StartDate": "1995-01-01",
+      "EndDate": "1996-12-31",
+      "DisplayOrder": 11
+    },
+    {
+      "Id": 10,
+      "Name": "Council Period 10",
+      "Prefix": "10",
+      "Period": null,
+      "StartDate": "1993-01-01",
+      "EndDate": "1994-12-31",
+      "DisplayOrder": 10
+    },
+    {
+      "Id": 9,
+      "Name": "Council Period 9",
+      "Prefix": "9",
+      "Period": null,
+      "StartDate": "1991-01-01",
+      "EndDate": "1992-12-31",
+      "DisplayOrder": 9
+    },
+    {
+      "Id": 8,
+      "Name": "Council Period 8",
+      "Prefix": "8",
+      "Period": null,
+      "StartDate": "1989-01-01",
+      "EndDate": "1990-12-31",
+      "DisplayOrder": 8
+    }
+  ],
+  "HearingTypes": [
+    {
+      "Id": 21,
+      "Name": "Roundtable (See File Hearing",
+      "HearingType": "Roundtable (See File Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 21
+    },
+    {
+      "Id": 20,
+      "Name": "Roundtable (B12-885) Hearing",
+      "HearingType": "Roundtable (B12-885) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 20
+    },
+    {
+      "Id": 19,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 19
+    },
+    {
+      "Id": 18,
+      "Name": "Roudntable Hearing",
+      "HearingType": "Roudntable Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 18
+    },
+    {
+      "Id": 17,
+      "Name": "Public Briefing Hearing",
+      "HearingType": "Public Briefing Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 17
+    },
+    {
+      "Id": 16,
+      "Name": "Public (Pr13-898) Hearing",
+      "HearingType": "Public (Pr13-898) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 16
+    },
+    {
+      "Id": 15,
+      "Name": "Public (Pr13-556) Hearing",
+      "HearingType": "Public (Pr13-556) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 15
+    },
+    {
+      "Id": 14,
+      "Name": "Public (Pr13-555) Hearing",
+      "HearingType": "Public (Pr13-555) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 14
+    },
+    {
+      "Id": 13,
+      "Name": "Public (Pr13-553) Hearing",
+      "HearingType": "Public (Pr13-553) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 13
+    },
+    {
+      "Id": 34,
+      "Name": "Roundtable (B14-581) Hearing",
+      "HearingType": "Roundtable (B14-581) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 13
+    },
+    {
+      "Id": 12,
+      "Name": "Public (Pr13-546) Hearing",
+      "HearingType": "Public (Pr13-546) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 12
+    },
+    {
+      "Id": 33,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 12
+    },
+    {
+      "Id": 11,
+      "Name": "Public (Pr13-545) Hearing",
+      "HearingType": "Public (Pr13-545) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 11
+    },
+    {
+      "Id": 32,
+      "Name": "Public (Con't) Hearing",
+      "HearingType": "Public (Con't) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 11
+    },
+    {
+      "Id": 10,
+      "Name": "Public (Pr13-544) Hearing",
+      "HearingType": "Public (Pr13-544) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 10
+    },
+    {
+      "Id": 31,
+      "Name": "Public (B4-954) Hearing",
+      "HearingType": "Public (B4-954) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 10
+    },
+    {
+      "Id": 9,
+      "Name": "Public (Pr13-543) Hearing",
+      "HearingType": "Public (Pr13-543) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 9
+    },
+    {
+      "Id": 30,
+      "Name": "Public (B14-679) Hearing",
+      "HearingType": "Public (B14-679) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 9
+    },
+    {
+      "Id": 43,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 9
+    },
+    {
+      "Id": 8,
+      "Name": "Public (Pr13-542) Hearing",
+      "HearingType": "Public (Pr13-542) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 8
+    },
+    {
+      "Id": 29,
+      "Name": "Public (B14-263) Hearing",
+      "HearingType": "Public (B14-263) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 8
+    },
+    {
+      "Id": 42,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 8
+    },
+    {
+      "Id": 7,
+      "Name": "Public (Pr13-541) Hearing",
+      "HearingType": "Public (Pr13-541) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 7
+    },
+    {
+      "Id": 28,
+      "Name": "Public (B13-594) Hearing",
+      "HearingType": "Public (B13-594) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 7
+    },
+    {
+      "Id": 41,
+      "Name": "Public (B14-648) Hearing",
+      "HearingType": "Public (B14-648) Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 7
+    },
+    {
+      "Id": 6,
+      "Name": "Public (Pr13-339) Hearing",
+      "HearingType": "Public (Pr13-339) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 6
+    },
+    {
+      "Id": 27,
+      "Name": "Public (B13-452) Hearing",
+      "HearingType": "Public (B13-452) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 6
+    },
+    {
+      "Id": 40,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 6
+    },
+    {
+      "Id": 5,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 5
+    },
+    {
+      "Id": 26,
+      "Name": "Public (B13-33) Hearing",
+      "HearingType": "Public (B13-33) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 5
+    },
+    {
+      "Id": 39,
+      "Name": "Oversight Roundtable Hearing",
+      "HearingType": "Oversight Roundtable Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 5
+    },
+    {
+      "Id": 4,
+      "Name": "Oversight Hearing",
+      "HearingType": "Oversight Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 4
+    },
+    {
+      "Id": 25,
+      "Name": "Public (B13-281) Hearing",
+      "HearingType": "Public (B13-281) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 4
+    },
+    {
+      "Id": 38,
+      "Name": "Oversight Hearing",
+      "HearingType": "Oversight Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 4
+    },
+    {
+      "Id": 3,
+      "Name": "Briefing Hearing",
+      "HearingType": "Briefing Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 24,
+      "Name": "Public (B13-185) Hearing",
+      "HearingType": "Public (B13-185) Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 37,
+      "Name": "Mark-Up Hearing",
+      "HearingType": "Mark-Up Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 46,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 16,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 49,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 17,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 54,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 19,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 57,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 20,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 60,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 21,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 2,
+      "Name": "5-10-00 Hearing",
+      "HearingType": "5-10-00 Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 23,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 36,
+      "Name": "Joint Roundtable Hearing",
+      "HearingType": "Joint Roundtable Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 45,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 16,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 48,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 17,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 51,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 18,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 53,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 19,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 56,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 20,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 59,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 21,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 1,
+      "Name": "(Cancelled) Hearing",
+      "HearingType": "(Cancelled) Hearing",
+      "CouncilPeriod": 13,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 22,
+      "Name": "Oversight Hearing",
+      "HearingType": "Oversight Hearing",
+      "CouncilPeriod": 14,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 35,
+      "Name": "Joint Public Hearing",
+      "HearingType": "Joint Public Hearing",
+      "CouncilPeriod": 15,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 44,
+      "Name": "Oversight Hearing",
+      "HearingType": "Oversight Hearing",
+      "CouncilPeriod": 16,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 47,
+      "Name": "Oversight Hearing",
+      "HearingType": "Oversight Hearing",
+      "CouncilPeriod": 17,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 50,
+      "Name": "Public Hearing",
+      "HearingType": "Public Hearing",
+      "CouncilPeriod": 18,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 52,
+      "Name": "Oversight Hearing",
+      "HearingType": "Oversight Hearing",
+      "CouncilPeriod": 19,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 55,
+      "Name": "Oversight Hearing",
+      "HearingType": "Oversight Hearing",
+      "CouncilPeriod": 20,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 58,
+      "Name": "Oversight Hearing",
+      "HearingType": "Oversight Hearing",
+      "CouncilPeriod": 21,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 61,
+      "Name": "Roundtable Hearing",
+      "HearingType": "Roundtable Hearing",
+      "CouncilPeriod": 9,
+      "DisplayOrder": 1
+    }
+  ],
+  "LegislationCategories": [
+    {
+      "Id": 1,
+      "Name": "Bill",
+      "MobileTitle": "Bill",
+      "LegislationCategory": "Bill",
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Resolution",
+      "MobileTitle": "PR",
+      "LegislationCategory": "Resolution",
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 3,
+      "Name": "Contract",
+      "MobileTitle": "Contract",
+      "LegislationCategory": "Contract",
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 8,
+      "Name": "Grant Budget Modification",
+      "MobileTitle": "GBM",
+      "LegislationCategory": "Grant Budget Modification",
+      "DisplayOrder": 4
+    },
+    {
+      "Id": 11,
+      "Name": "Reprogramming",
+      "MobileTitle": "Reprog.",
+      "LegislationCategory": "Reprogramming",
+      "DisplayOrder": 5
+    },
+    {
+      "Id": 13,
+      "Name": "Housing Finance Agency",
+      "MobileTitle": "HFA",
+      "LegislationCategory": "Housing Finance Agency",
+      "DisplayOrder": 6
+    },
+    {
+      "Id": 12,
+      "Name": "Report",
+      "MobileTitle": "Report",
+      "LegislationCategory": "Report",
+      "DisplayOrder": 7
+    },
+    {
+      "Id": 18,
+      "Name": "Agenda",
+      "MobileTitle": "Agenda",
+      "LegislationCategory": "Agenda",
+      "DisplayOrder": 8
+    }
+  ],
+  "LegislationTypes": [
+    {
+      "Id": 1,
+      "Name": "Permanent Bill",
+      "LegislationType": "Permanent Bill",
+      "LegislationPrefix": "B",
+      "LegislationCategory": null,
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Congressional Review Emergency Bill",
+      "LegislationType": "Congressional Review Emergency Bill",
+      "LegislationPrefix": "B",
+      "LegislationCategory": null,
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 3,
+      "Name": "Emergency Bill",
+      "LegislationType": "Emergency Bill",
+      "LegislationPrefix": "B",
+      "LegislationCategory": null,
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 4,
+      "Name": "Temporary Bill",
+      "LegislationType": "Temporary Bill",
+      "LegislationPrefix": "B",
+      "LegislationCategory": null,
+      "DisplayOrder": 4
+    },
+    {
+      "Id": 5,
+      "Name": "Ceremonial Resolution",
+      "LegislationType": "Ceremonial Resolution",
+      "LegislationPrefix": "CER",
+      "LegislationCategory": null,
+      "DisplayOrder": 5
+    },
+    {
+      "Id": 6,
+      "Name": "Congressional Review Emer. Decl. Resolution",
+      "LegislationType": "Congressional Review Emer. Decl. Resolution",
+      "LegislationPrefix": "PR",
+      "LegislationCategory": null,
+      "DisplayOrder": 6
+    },
+    {
+      "Id": 7,
+      "Name": "Emergency Approval Resolution",
+      "LegislationType": "Emergency Approval Resolution",
+      "LegislationPrefix": "PR",
+      "LegislationCategory": null,
+      "DisplayOrder": 7
+    },
+    {
+      "Id": 8,
+      "Name": "Emergency Declaration Resolution",
+      "LegislationType": "Emergency Declaration Resolution",
+      "LegislationPrefix": "PR",
+      "LegislationCategory": null,
+      "DisplayOrder": 8
+    },
+    {
+      "Id": 9,
+      "Name": "Proposed Resolution",
+      "LegislationType": "Proposed Resolution",
+      "LegislationPrefix": "PR",
+      "LegislationCategory": null,
+      "DisplayOrder": 9
+    },
+    {
+      "Id": 10,
+      "Name": "Contract",
+      "LegislationType": "Contract",
+      "LegislationPrefix": "CA",
+      "LegislationCategory": null,
+      "DisplayOrder": 10
+    },
+    {
+      "Id": 11,
+      "Name": "Grant Budget Modification",
+      "LegislationType": "Grant Budget Modification",
+      "LegislationPrefix": "GBM",
+      "LegislationCategory": null,
+      "DisplayOrder": 11
+    },
+    {
+      "Id": 13,
+      "Name": "Reprogramming",
+      "LegislationType": "Reprogramming",
+      "LegislationPrefix": "REPROG",
+      "LegislationCategory": null,
+      "DisplayOrder": 12
+    },
+    {
+      "Id": 15,
+      "Name": "Advisory Neighborhood Commission",
+      "LegislationType": "Advisory Neighborhood Commission",
+      "LegislationPrefix": "ANC",
+      "LegislationCategory": null,
+      "DisplayOrder": 13
+    },
+    {
+      "Id": 16,
+      "Name": "Auditor",
+      "LegislationType": "Auditor",
+      "LegislationPrefix": "AU",
+      "LegislationCategory": null,
+      "DisplayOrder": 14
+    },
+    {
+      "Id": 17,
+      "Name": "Authority Board",
+      "LegislationType": "Authority Board",
+      "LegislationPrefix": "AB",
+      "LegislationCategory": null,
+      "DisplayOrder": 15
+    },
+    {
+      "Id": 18,
+      "Name": "Chief Financial Officer",
+      "LegislationType": "Chief Financial Officer",
+      "LegislationPrefix": "CFO",
+      "LegislationCategory": null,
+      "DisplayOrder": 16
+    },
+    {
+      "Id": 19,
+      "Name": "Housing Finance Agency",
+      "LegislationType": "Housing Finance Agency",
+      "LegislationPrefix": "HFA",
+      "LegislationCategory": null,
+      "DisplayOrder": 17
+    },
+    {
+      "Id": 20,
+      "Name": "Inspector General",
+      "LegislationType": "Inspector General",
+      "LegislationPrefix": "IG",
+      "LegislationCategory": null,
+      "DisplayOrder": 18
+    },
+    {
+      "Id": 21,
+      "Name": "Other",
+      "LegislationType": "Other",
+      "LegislationPrefix": "RC",
+      "LegislationCategory": null,
+      "DisplayOrder": 19
+    },
+    {
+      "Id": 22,
+      "Name": "To Council",
+      "LegislationType": "To Council",
+      "LegislationPrefix": "RC",
+      "LegislationCategory": null,
+      "DisplayOrder": 20
+    },
+    {
+      "Id": 23,
+      "Name": "Committee",
+      "LegislationType": "Committee",
+      "LegislationPrefix": "CR",
+      "LegislationCategory": null,
+      "DisplayOrder": 21
+    },
+    {
+      "Id": 24,
+      "Name": "Contract Summary",
+      "LegislationType": "Contract Summary",
+      "LegislationPrefix": "CAS",
+      "LegislationCategory": null,
+      "DisplayOrder": 22
+    },
+    {
+      "Id": 25,
+      "Name": "To Mayor",
+      "LegislationType": "To Mayor",
+      "LegislationPrefix": "RMR",
+      "LegislationCategory": null,
+      "DisplayOrder": 23
+    },
+    {
+      "Id": 28,
+      "Name": "Agenda",
+      "LegislationType": "Agenda",
+      "LegislationPrefix": "AG",
+      "LegislationCategory": null,
+      "DisplayOrder": 24
+    }
+  ],
+  "MasterList": [
+    {
+      "Id": 1,
+      "Name": "MasterData for Secretary for Council Period - 1",
+      "Chairman": null,
+      "Secretary": null,
+      "CouncilPeriod": 1,
+      "StartDate": "1975-01-01",
+      "EndDate": "1976-12-31",
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 2,
+      "Name": "MasterData for Secretary for Council Period - 2",
+      "Chairman": null,
+      "Secretary": null,
+      "CouncilPeriod": 2,
+      "StartDate": "1977-01-01",
+      "EndDate": "1978-12-31",
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 3,
+      "Name": "MasterData for Secretary for Council Period - 3",
+      "Chairman": null,
+      "Secretary": null,
+      "CouncilPeriod": 3,
+      "StartDate": "1979-01-01",
+      "EndDate": "1980-12-31",
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 4,
+      "Name": "MasterData for Secretary for Council Period - 4",
+      "Chairman": "Arrington Dixon",
+      "Secretary": null,
+      "CouncilPeriod": 4,
+      "StartDate": "1981-01-01",
+      "EndDate": "1982-12-31",
+      "DisplayOrder": 4
+    },
+    {
+      "Id": 5,
+      "Name": "MasterData for Secretary for Council Period - 5",
+      "Chairman": "David A.Clarke",
+      "Secretary": null,
+      "CouncilPeriod": 5,
+      "StartDate": "1983-01-01",
+      "EndDate": "1984-12-31",
+      "DisplayOrder": 5
+    },
+    {
+      "Id": 6,
+      "Name": "MasterData for Secretary for Council Period - 6",
+      "Chairman": "David A.Clarke",
+      "Secretary": null,
+      "CouncilPeriod": 6,
+      "StartDate": "1985-01-01",
+      "EndDate": "1986-12-31",
+      "DisplayOrder": 6
+    },
+    {
+      "Id": 7,
+      "Name": "MasterData for Secretary for Council Period - 7",
+      "Chairman": "David A.Clarke",
+      "Secretary": null,
+      "CouncilPeriod": 7,
+      "StartDate": "1987-01-01",
+      "EndDate": "1988-12-31",
+      "DisplayOrder": 7
+    },
+    {
+      "Id": 8,
+      "Name": "MasterData for Secretary for Council Period - 8",
+      "Chairman": "David A.Clarke",
+      "Secretary": null,
+      "CouncilPeriod": 8,
+      "StartDate": "1989-01-01",
+      "EndDate": "1990-12-31",
+      "DisplayOrder": 8
+    },
+    {
+      "Id": 9,
+      "Name": "MasterData for Secretary for Council Period - 9",
+      "Chairman": "John A.Wilson",
+      "Secretary": null,
+      "CouncilPeriod": 9,
+      "StartDate": "1991-01-01",
+      "EndDate": "1992-12-31",
+      "DisplayOrder": 9
+    },
+    {
+      "Id": 10,
+      "Name": "MasterData for Secretary for Council Period - 10",
+      "Chairman": "David A.Clarke",
+      "Secretary": null,
+      "CouncilPeriod": 10,
+      "StartDate": "1993-01-01",
+      "EndDate": "1994-12-31",
+      "DisplayOrder": 10
+    },
+    {
+      "Id": 11,
+      "Name": "MasterData for Secretary for Council Period - 11",
+      "Chairman": "David A.Clarke",
+      "Secretary": null,
+      "CouncilPeriod": 11,
+      "StartDate": "1995-01-01",
+      "EndDate": "1996-12-31",
+      "DisplayOrder": 11
+    },
+    {
+      "Id": 12,
+      "Name": "MasterData for Secretary for Council Period - 12",
+      "Chairman": "David A.Clarke",
+      "Secretary": null,
+      "CouncilPeriod": 12,
+      "StartDate": "1997-01-01",
+      "EndDate": "1998-12-31",
+      "DisplayOrder": 12
+    },
+    {
+      "Id": 13,
+      "Name": "MasterData for Secretary for Council Period - 13",
+      "Chairman": "Linda W.Cropp",
+      "Secretary": null,
+      "CouncilPeriod": 13,
+      "StartDate": "1999-01-01",
+      "EndDate": "2000-12-31",
+      "DisplayOrder": 13
+    },
+    {
+      "Id": 14,
+      "Name": "MasterData for Secretary for Council Period - 14",
+      "Chairman": "Linda W.Cropp",
+      "Secretary": null,
+      "CouncilPeriod": 14,
+      "StartDate": "2001-01-01",
+      "EndDate": "2002-12-31",
+      "DisplayOrder": 14
+    },
+    {
+      "Id": 15,
+      "Name": "MasterData for Secretary for Council Period - 15",
+      "Chairman": "Linda W.Cropp",
+      "Secretary": null,
+      "CouncilPeriod": 15,
+      "StartDate": "2003-01-02",
+      "EndDate": "2004-12-31",
+      "DisplayOrder": 15
+    },
+    {
+      "Id": 16,
+      "Name": "MasterData for Secretary for Council Period - 16",
+      "Chairman": "Linda W.Cropp",
+      "Secretary": "Phyllis Jones, Secretary to the Council",
+      "CouncilPeriod": 16,
+      "StartDate": "2005-01-01",
+      "EndDate": "2006-12-31",
+      "DisplayOrder": 16
+    },
+    {
+      "Id": 17,
+      "Name": "MasterData for Secretary for Council Period - 17",
+      "Chairman": "Vincent C.Gray",
+      "Secretary": null,
+      "CouncilPeriod": 17,
+      "StartDate": "2007-01-01",
+      "EndDate": "2008-12-31",
+      "DisplayOrder": 17
+    },
+    {
+      "Id": 18,
+      "Name": "MasterData for Secretary for Council Period - 18",
+      "Chairman": "Kwame R.Brown",
+      "Secretary": null,
+      "CouncilPeriod": 18,
+      "StartDate": "2009-01-01",
+      "EndDate": "2010-12-31",
+      "DisplayOrder": 18
+    },
+    {
+      "Id": 19,
+      "Name": "MasterData for Secretary for Council Period - 19",
+      "Chairman": "Phil Pmendelson",
+      "Secretary": null,
+      "CouncilPeriod": 19,
+      "StartDate": "2011-01-01",
+      "EndDate": "2012-12-31",
+      "DisplayOrder": 19
+    },
+    {
+      "Id": 20,
+      "Name": "MasterData for Secretary for Council Period - 20",
+      "Chairman": "Phil Pmendelson",
+      "Secretary": "Nyasha Smith, Secretary to the Council",
+      "CouncilPeriod": 20,
+      "StartDate": "2013-01-01",
+      "EndDate": "2014-12-31",
+      "DisplayOrder": 20
+    },
+    {
+      "Id": 21,
+      "Name": "MasterData for Secretary for Council Period - 21",
+      "Chairman": "Phil Pmendelson",
+      "Secretary": "Nyasha Smith, Secretary to the Council",
+      "CouncilPeriod": 21,
+      "StartDate": "2015-01-01",
+      "EndDate": "2016-12-31",
+      "DisplayOrder": 21
+    }
+  ],
+  "PlaceRead": [
+    {
+      "Id": 1,
+      "Name": "Legislative Meeting",
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Committee of the Whole",
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 4,
+      "Name": null,
+      "DisplayOrder": 3
+    }
+  ],
+  "Places": [
+    {
+      "Id": 1,
+      "Name": "Office of the Secretary",
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 2,
+      "Name": "Legislative Meeting",
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 3,
+      "Name": "Committee of the Whole",
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 5,
+      "Name": null,
+      "DisplayOrder": 4
+    },
+    {
+      "Id": 6,
+      "Name": "Ballot Initiative",
+      "DisplayOrder": 6
+    }
+  ],
+  "VoteResponse": [
+    {
+      "Id": 1,
+      "Name": "Yes",
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 2,
+      "Name": "No",
+      "DisplayOrder": 2
+    },
+    {
+      "Id": 3,
+      "Name": "Absent",
+      "DisplayOrder": 3
+    },
+    {
+      "Id": 4,
+      "Name": "Abstained",
+      "DisplayOrder": 4
+    },
+    {
+      "Id": 5,
+      "Name": "Present",
+      "DisplayOrder": 5
+    },
+    {
+      "Id": 6,
+      "Name": "Recused",
+      "DisplayOrder": 6
+    },
+    {
+      "Id": 7,
+      "Name": "Vacant",
+      "DisplayOrder": 7
+    },
+    {
+      "Id": 8,
+      "Name": "Other",
+      "DisplayOrder": 8
+    }
+  ],
+  "VoteTypes": [
+    {
+      "Id": 1,
+      "Name": "VOICE VOTE",
+      "DisplayOrder": 1
+    },
+    {
+      "Id": 2,
+      "Name": "ROLL CALL",
+      "DisplayOrder": 2
+    }
+  ],
+  "LegislationStatus": [
+    {
+      "Id": 1,
+      "Name": "New",
+      "StatusText": "This legislation was introduced within the last 7 days.",
+      "DisplayOrder": 10
+    },
+    {
+      "Id": 2,
+      "Name": "Pending",
+      "StatusText": "This legislation is pending for approval.",
+      "DisplayOrder": 20
+    },
+    {
+      "Id": 3,
+      "Name": "Voting Failed",
+      "StatusText": "Voting for this legislation failed.",
+      "DisplayOrder": 30
+    },
+    {
+      "Id": 4,
+      "Name": "Under Council Review",
+      "StatusText": "This legislation is under Council review.",
+      "DisplayOrder": 40
+    },
+    {
+      "Id": 5,
+      "Name": "Under Mayoral Review",
+      "StatusText": "This legislation has been transmitted to the Mayor for action within 10 days.",
+      "DisplayOrder": 50
+    },
+    {
+      "Id": 6,
+      "Name": "Enacted",
+      "StatusText": "This legislation has been approved by the Council and the Mayor has either returned signed or unsigned.",
+      "DisplayOrder": 60
+    },
+    {
+      "Id": 7,
+      "Name": "Under Congressional Review",
+      "StatusText": "This legislation is under Congressional review and there is a projected law date.",
+      "DisplayOrder": 70
+    },
+    {
+      "Id": 13,
+      "Name": "Official Law",
+      "StatusText": "This legislation is now official law.",
+      "DisplayOrder": 80
+    },
+    {
+      "Id": 8,
+      "Name": "Vetoed",
+      "StatusText": "This legislation has been vetoed by the Mayor and the Council has 30 days to override.",
+      "DisplayOrder": 90
+    },
+    {
+      "Id": 9,
+      "Name": "Deemed Approved",
+      "StatusText": "This measure has been deemed approved without Council action.",
+      "DisplayOrder": 100
+    },
+    {
+      "Id": 10,
+      "Name": "Deemed Disapproved",
+      "StatusText": "This measure has been deemed disapproved without Council action.",
+      "DisplayOrder": 110
+    },
+    {
+      "Id": 11,
+      "Name": "Approved",
+      "StatusText": "This measure has been approved with Council action.",
+      "DisplayOrder": 120
+    },
+    {
+      "Id": 12,
+      "Name": "Disapproved",
+      "StatusText": "This measure has been disapproved with Council action.",
+      "DisplayOrder": 130
+    },
+    {
+      "Id": 14,
+      "Name": "Withdrawn",
+      "StatusText": "This legislation has been withdrawn.",
+      "DisplayOrder": 140
+    }
+  ],
+  "ErrorCodes": {
+    "401": {
+      "Title": "InvalidLegislation",
+      "Code": 401
+    },
+    "402": {
+      "Title": "PartialLegislationNumber",
+      "Code": 402
+    }
+  }
+}
