@@ -6,7 +6,7 @@
 
 import express from 'express';
 import mongoose from 'mongoose';
-mongoose.Promise = require('bluebird');
+//mongoose.Promise = require('bluebird');
 import config from './config/environment';
 import http from 'http';
 
@@ -21,7 +21,7 @@ mongoose.connection.on('error', function(err) {
 if (config.seedDB) { require('./config/seed'); }
 
 // Populate masters collection with LIMS masters values
-require('./config/masters-populator');
+//require('./config/masters-populator');
 
 // Setup server
 var app = express();
