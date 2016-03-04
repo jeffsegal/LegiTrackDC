@@ -36,7 +36,6 @@ describe('Masters API:', function() {
         .post('/api/masters')
         .send({
           name: 'New Masters',
-          info: 'This is the brand new masters!!!'
         })
         .expect(201)
         .expect('Content-Type', /json/)
@@ -51,7 +50,6 @@ describe('Masters API:', function() {
 
     it('should respond with the newly created masters', function() {
       newMasters.name.should.equal('New Masters');
-      newMasters.info.should.equal('This is the brand new masters!!!');
     });
 
   });
@@ -79,7 +77,6 @@ describe('Masters API:', function() {
 
     it('should respond with the requested masters', function() {
       masters.name.should.equal('New Masters');
-      masters.info.should.equal('This is the brand new masters!!!');
     });
 
   });
@@ -92,7 +89,6 @@ describe('Masters API:', function() {
         .put('/api/masters/' + newMasters._id)
         .send({
           name: 'Updated Masters',
-          info: 'This is the updated masters!!!'
         })
         .expect(200)
         .expect('Content-Type', /json/)
@@ -111,7 +107,6 @@ describe('Masters API:', function() {
 
     it('should respond with the updated masters', function() {
       updatedMasters.name.should.equal('Updated Masters');
-      updatedMasters.info.should.equal('This is the updated masters!!!');
     });
 
   });
