@@ -20,6 +20,7 @@ describe('Controller: MainController', function() {
 
     scope = $rootScope.$new();
     state = $state;
+    state.expectTransitionTo('main.content');
     MainController = $controller('MainController', {
       $scope: scope
     });
