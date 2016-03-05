@@ -108,7 +108,7 @@ LegislationListCtrl.prototype.resetResults = function () {
 
 LegislationListCtrl.prototype.populateLocalMasters = function () {
   var me = this;
-  var Masters = $resource('/api/masters/:name', { name: '@name' });
+  var Masters = me.$resource('/api/masters/:name', { name: '@name' });
   var user = Masters.get({}, function(response) {
     var json = JSON.parse(response);
     console.log(json);
