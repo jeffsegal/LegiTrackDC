@@ -14,6 +14,7 @@ describe('Service: limsService', function () {
   it('should do something', function () {
     //!!limsService.should.be.true;
     true.should.be.true;
+
   });
 
 });
