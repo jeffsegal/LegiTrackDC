@@ -1,0 +1,10 @@
+app:
+  build:
+    image: app
+    dockerfile_path: Dockerfile
+  environment:
+    MONGOLAB_URI: "mongodb://mongo/legitrack"
+  links:
+    - mongo
+mongo:
+   image: mongo:3.2
